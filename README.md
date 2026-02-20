@@ -15,7 +15,7 @@ Full guide found [here.](https://docs.1of1servers.com/1of1-game-guides/fivem/ext
 - Configures firewall rules
 - Starts Rust-Mumble automatically
 
-Set up the special VPS server within minutes using our quick and painless set up guide found here, or a video guide found below
+Set up the special VPS server within minutes using our quick and painless set up guide found [here](https://docs.1of1servers.com/1-of-1-game-server-guides/fivem/external-zumble-rust-mumble-server), or a video guide found in the guide. 
 
 ## Installation & Usage
 
