@@ -3,7 +3,7 @@
 A simple and automated script to install and configure [**Rust-Mumble made by AvarianKnight**](https://github.com/AvarianKnight/rust-mumble), a voice server for FiveM, including dependencies, firewall settings, and system optimizations.
 
 ## 1of1 Servers VPS Plan
-We offer a VPS package to host the Mumble server only at $4.99 per month found [here.](https://billing.1of1servers.com/cart.php?a=view)
+We offer a VPS package to host the Mumble server only at $9.99 per month found [here.](https://billing.1of1servers.com/cart.php?a=view)
 Full guide found [here.](https://docs.1of1servers.com/1of1-game-guides/fivem/external-zumble-rust-mumble-server)
 
 ## Features
